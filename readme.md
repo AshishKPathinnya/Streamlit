@@ -1,6 +1,14 @@
 # 🤖 ML Model Deployment Hub
 
 A comprehensive Streamlit web application for deploying, testing, and understanding machine learning models with interactive visualizations and explanations.
+## Live Link : https://ashishkpathinnya-streamlit-app-0ez2qg.streamlit.app/
+## 🚀 Screenshots:
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 205510" src="https://github.com/user-attachments/assets/0425dc33-fd16-4c5c-9d48-0a58e44bb0b1" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 205530" src="https://github.com/user-attachments/assets/1ff346e0-a6d5-48bb-a07f-5a7143349f80" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 205551" src="https://github.com/user-attachments/assets/407b8143-4fdc-41bf-a896-dd5db3306bb6" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 205626" src="https://github.com/user-attachments/assets/cbbdc237-a44e-4f2d-8efe-f3d0f2145772" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 205649" src="https://github.com/user-attachments/assets/ec48cac9-6fd9-4c5a-9dd7-dd9f720fc25b" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 205702" src="https://github.com/user-attachments/assets/a7daacc9-bc45-4548-af7c-33b64fe3e8ba" />
 
 ## 🌟 Features
 
@@ -10,8 +18,6 @@ A comprehensive Streamlit web application for deploying, testing, and understand
 - **📋 Dataset Explorer**: Data analysis and export capabilities
 - **🎨 Professional UI**: Modern, responsive design with custom styling
 - **📥 Export Options**: Download models, datasets, and predictions
-
-## 🚀 Demo
 
 ### Main Interface
 - Interactive prediction interface with real-time results
@@ -38,7 +44,7 @@ A comprehensive Streamlit web application for deploying, testing, and understand
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ml-model-deployment-hub.git
+git clone https://github.com/AshishKPathinnya/Streamlit.git
 cd ml-model-deployment-hub
 ```
 
@@ -60,7 +66,7 @@ pip install -r requirements.txt
 
 ### 4. Run the Application
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The application will be available at `http://localhost:8501`
@@ -182,7 +188,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Streamlit** for the amazing web app framework
 - **Scikit-learn** for machine learning capabilities
@@ -191,9 +197,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **Project Link**: [https://github.com/yourusername/ml-model-deployment-hub](https://github.com/yourusername/ml-model-deployment-hub)
+- **GitHub**: [@yourusername](https://github.com/AshishKPathinnya)
+- **Email**: ashishpathinnya100@gmail.com
+- **Project Link**: [https://github.com/AshishKPathinnya/Streamlit](https://github.com/AshishKPathinnya/Streamlit)
 
 ---
 
