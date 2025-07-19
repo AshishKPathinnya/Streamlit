@@ -31,8 +31,8 @@ We use GitHub to host code, to track issues and feature requests, as well as acc
 
 1. **Clone your fork locally**:
 ```bash
-git clone https://github.com/yourusername/ml-model-deployment-hub.git
-cd ml-model-deployment-hub
+git clone https://github.com/AshishKPathinnya/Streamlit
+cd Streamlit
 ```
 
 2. **Create a virtual environment**:
