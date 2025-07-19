@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/AshishKPathinnya)
+- **GitHub**: [@AshishKPathinnya](https://github.com/AshishKPathinnya)
 - **Email**: ashishpathinnya100@gmail.com
 - **Project Link**: [https://github.com/AshishKPathinnya/Streamlit](https://github.com/AshishKPathinnya/Streamlit)
 
