@@ -10,14 +10,14 @@ setup(
     name="ml-model-deployment-hub",
     version="1.0.0",
     author="Your Name",
-    author_email="your.email@example.com",
+    author_email="ashishpathinnya100@gmail.com",
     description="A comprehensive Streamlit web application for deploying and understanding ML models",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/yourusername/ml-model-deployment-hub",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/ml-model-deployment-hub/issues",
-        "Documentation": "https://github.com/yourusername/ml-model-deployment-hub/docs",
+        "Bug Tracker": "https://github.com/AshishKPathinnya/Streamlit/issues",
+        "Documentation": "https://github.com/AshishKPathinnya/Streamlit/docs",
     },
     classifiers=[
         "Development Status :: 5 - Production/Stable",
